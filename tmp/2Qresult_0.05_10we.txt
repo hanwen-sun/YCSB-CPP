@@ -1,0 +1,11 @@
+2023-04-25 11:20:34 0 sec: 0 operations;
+2023-04-25 11:20:37 2 sec: 100000 operations; [INSERT: Count=100000 Max=19759.10 Min=3.14 Avg=19.76 90=7.15 99=1065.98 99.9=1079.30 99.99=7262.21]
+Load runtime(sec): 2.42726
+Load operations(ops): 100000
+Load throughput(ops/sec): 41198.8
+2023-04-25 11:20:37 0 sec: 0 operations;
+2023-04-25 11:20:47 10 sec: 94083 operations; [INSERT: Count=4758 Max=6434.81 Min=3.70 Avg=20.36 90=20.80 99=30.37 99.9=601.60 99.99=6434.81] [SCAN: Count=89325 Max=4411.39 Min=5.45 Avg=99.02 90=167.17 99=194.43 99.9=237.57 99.99=450.56]
+2023-04-25 11:20:47 10 sec: 100000 operations; [INSERT: Count=5048 Max=6434.81 Min=3.70 Avg=20.74 90=20.96 99=33.76 99.9=657.92 99.99=6197.25] [SCAN: Count=94952 Max=4411.39 Min=5.45 Avg=99.17 90=167.42 99=194.30 99.9=238.08 99.99=491.26]
+Run runtime(sec): 10.6375
+Run operations(ops): 100000
+Run throughput(ops/sec): 9400.7

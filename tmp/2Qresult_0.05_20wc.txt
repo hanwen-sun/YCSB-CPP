@@ -1,0 +1,10 @@
+2023-04-25 11:35:11 0 sec: 0 operations;
+2023-04-25 11:35:20 8 sec: 200000 operations; [INSERT: Count=200000 Max=37847.04 Min=3.14 Avg=39.17 90=7.06 99=1070.08 99.9=1224.70 99.99=8241.15]
+Load runtime(sec): 8.6805
+Load operations(ops): 200000
+Load throughput(ops/sec): 23040.1
+2023-04-25 11:35:20 0 sec: 0 operations;
+2023-04-25 11:35:21 1 sec: 200000 operations; [READ: Count=200000 Max=711.17 Min=2.25 Avg=4.57 90=5.13 99=9.10 99.9=21.58 99.99=291.33]
+Run runtime(sec): 1.10072
+Run operations(ops): 200000
+Run throughput(ops/sec): 181700
